@@ -1,0 +1,22 @@
+.phonebook {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+body {
+  background-color: rgb(248, 211, 242);
+  color: rgb(172, 49, 165);
+}
+
+h1 h2 {
+  color: blueviolet;
+}
+
+.total_contact {
+  margin-left: 70px;
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.contact_item {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.delete_button {
+  border: none;
+  background-color: white;
+}
+
+.name {
+  padding-right: 10px;
+}

@@ -1,0 +1,17 @@
+.navLinkItem {
+  color: white;
+  text-decoration: none;
+  padding: auto;
+}
+.navItem:not(:last-child) {
+  margin-right: 20px;
+}
+
+.navItem {
+  margin-top: 15px;
+  font-size: large;
+}
+
+.navLinkItem:hover {
+  color: rgb(206, 27, 131);
+}
